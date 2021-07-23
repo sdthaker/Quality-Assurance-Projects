@@ -1,0 +1,32 @@
+{
+	"name": "fcc-library",
+	"version": "1.0.0",
+	"description": "boilerplate",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.14.0",
+		"cors": "^2.8.1",
+		"body-parser": "^1.15.2",
+		"chai": "^4.2.0",
+		"chai-http": "^4.3.0",
+		"mongodb": "^3.6.2",
+		"zombie": "^5.0.5",
+		"mocha": "^3.2.0",
+		"dotenv": "^8.2.0",
+		"mongoose": "^5.13.3",
+		"nodemon": "^2.0.12"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-project-library"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
+	"license": "MIT"
+}
