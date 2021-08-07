@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
-# Quality-Assurance
+# Quality Assurance Projects
 freeCodeCamp Quality Assurance certification projects: [Quality Assurance Projects](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-projects)
 
 ## Technologies used:
