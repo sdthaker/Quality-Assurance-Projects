@@ -12,12 +12,12 @@
 	"dependencies": {
 		"body-parser": "^1.15.2",
 		"chai": "^3.5.0",
-		"chai-http": "^3.0.0",
+		"chai-http": "^4.0.0",
 		"cors": "^2.8.1",
 		"express": "^5.0.0-alpha.2",
-		"mocha": "^3.1.0",
+		"mocha": "^6.2.3",
 		"nodemon": "^2.0.12",
-		"zombie": "^4.2.1"
+		"zombie": "^6.1.0"
 	},
 	"repository": {
 		"type": "git",
